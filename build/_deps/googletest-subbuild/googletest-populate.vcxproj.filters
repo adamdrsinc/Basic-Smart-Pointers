@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\7bd741e50ed69710e29a0fa4c0c07477\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\7bd741e50ed69710e29a0fa4c0c07477\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\7bd741e50ed69710e29a0fa4c0c07477\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\7bd741e50ed69710e29a0fa4c0c07477\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\7bd741e50ed69710e29a0fa4c0c07477\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\7bd741e50ed69710e29a0fa4c0c07477\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\7bd741e50ed69710e29a0fa4c0c07477\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\7bd741e50ed69710e29a0fa4c0c07477\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\fefd23fc3009ed54fd674b65cd785d93\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\0f8174f93fae551996d9b32ed9e0e002\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\University of Chester\Utah State Uni\C++\Assignments\Assignment7SmartPointers\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FE287AEF-CB28-330D-B6EE-768E7EC12278}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

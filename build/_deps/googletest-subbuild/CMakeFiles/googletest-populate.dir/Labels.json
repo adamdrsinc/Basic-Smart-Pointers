@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/0f8174f93fae551996d9b32ed9e0e002/googletest-populate.rule"
+		},
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/fefd23fc3009ed54fd674b65cd785d93/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/7bd741e50ed69710e29a0fa4c0c07477/googletest-populate-build.rule"
+		},
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/7bd741e50ed69710e29a0fa4c0c07477/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/7bd741e50ed69710e29a0fa4c0c07477/googletest-populate-download.rule"
+		},
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/7bd741e50ed69710e29a0fa4c0c07477/googletest-populate-install.rule"
+		},
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/7bd741e50ed69710e29a0fa4c0c07477/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/7bd741e50ed69710e29a0fa4c0c07477/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/7bd741e50ed69710e29a0fa4c0c07477/googletest-populate-test.rule"
+		},
+		{
+			"file" : "D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/7bd741e50ed69710e29a0fa4c0c07477/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

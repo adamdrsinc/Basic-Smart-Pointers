@@ -1,0 +1,3 @@
+D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+D:/University of Chester/Utah State Uni/C++/Assignments/Assignment7SmartPointers/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir
